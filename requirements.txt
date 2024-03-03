@@ -1,0 +1,17 @@
+Cython==3.0.8
+deepdiff==6.7.1
+dipy==1.8.0
+h5py==3.10.0
+logging==0.4.9.6
+nibabel==5.2.1
+numpy==1.26.4
+ordered-set==4.1.0
+packaging==23.2
+scipy==1.12.0
+setuptools==69.1.1
+setuptools-scm==8.0.4
+TIME-python==0.0.17
+tqdm==4.66.2
+trx-python==0.2.9
+typing_extensions==4.10.0
+watchdog==4.0.0
